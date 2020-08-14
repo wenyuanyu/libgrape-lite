@@ -1,11 +1,7 @@
-<h1 align="center">
-    <img src="https://alibaba.github.io/libgrape-lite/logo.png" width="100" alt="libgrape-lite">
-    <br>
-    libgrape-lite
-</h1>
-<p align="center">
-    A C++ library for parallel graph processing
-</p>
+<img src="https://alibaba.github.io/libgrape-lite/logo.png" width="100" alt="libgrape-lite" align="left">
+
+# libgrape-lite
+### A C++ library for parallel graph processing
 
 [![C/C++ CI](https://github.com/alibaba/libgrape-lite/workflows/C++%20CI/badge.svg)](https://github.com/alibaba/libgrape-lite/actions?workflow=C++%20CI)
 [![codecov](https://codecov.io/gh/alibaba/libgrape-lite/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/libgrape-lite)
