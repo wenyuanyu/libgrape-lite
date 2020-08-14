@@ -1,4 +1,4 @@
-<img src="https://alibaba.github.io/libgrape-lite/logo.png" width="100" alt="libgrape-lite" align="left">
+<img src="https://alibaba.github.io/libgrape-lite/logo.png" width="150" alt="libgrape-lite" align="left">
 
 # libgrape-lite
 ### A C++ library for parallel graph processing
